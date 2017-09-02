@@ -1,0 +1,10 @@
+C:\Users\rock_\OneDrive\Documents\Visual Studio 2015\Projects\BlackJackApp\src\BlackJackApp\bin\Debug\netcoreapp1.0\BlackJackApp.deps.json
+C:\Users\rock_\OneDrive\Documents\Visual Studio 2015\Projects\BlackJackApp\src\BlackJackApp\bin\Debug\netcoreapp1.0\BlackJackApp.runtimeconfig.json
+C:\Users\rock_\OneDrive\Documents\Visual Studio 2015\Projects\BlackJackApp\src\BlackJackApp\bin\Debug\netcoreapp1.0\BlackJackApp.runtimeconfig.dev.json
+C:\Users\rock_\OneDrive\Documents\Visual Studio 2015\Projects\BlackJackApp\src\BlackJackApp\bin\Debug\netcoreapp1.0\BlackJackApp.dll
+C:\Users\rock_\OneDrive\Documents\Visual Studio 2015\Projects\BlackJackApp\src\BlackJackApp\bin\Debug\netcoreapp1.0\BlackJackApp.pdb
+C:\Users\rock_\OneDrive\Documents\Visual Studio 2015\Projects\BlackJackApp\src\BlackJackApp\obj\Debug\netcoreapp1.0\BlackJackApp.csprojResolveAssemblyReference.cache
+C:\Users\rock_\OneDrive\Documents\Visual Studio 2015\Projects\BlackJackApp\src\BlackJackApp\obj\Debug\netcoreapp1.0\BlackJackApp.csproj.CoreCompileInputs.cache
+C:\Users\rock_\OneDrive\Documents\Visual Studio 2015\Projects\BlackJackApp\src\BlackJackApp\obj\Debug\netcoreapp1.0\BlackJackApp.AssemblyInfo.cs
+C:\Users\rock_\OneDrive\Documents\Visual Studio 2015\Projects\BlackJackApp\src\BlackJackApp\obj\Debug\netcoreapp1.0\BlackJackApp.dll
+C:\Users\rock_\OneDrive\Documents\Visual Studio 2015\Projects\BlackJackApp\src\BlackJackApp\obj\Debug\netcoreapp1.0\BlackJackApp.pdb
